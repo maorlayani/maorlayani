@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maor Layani</h1>
-<h3 align="center">A Full Stack developer</h3>
+<h3 align="center">A Fronten / Fullstack developer</h3>
 
 - 🌴 Proficient in building single-page applications.
 
