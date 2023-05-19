@@ -3,7 +3,7 @@
 
 - 🌴 Proficient in building single-page applications.
 
-- 🏆 I recently built a clone of Trello, check it out! [Strello](https://strello-app.onrender.com)
+- 🏆 I recently built a clone of Trello, check it out! [Strello](https://strello-app.onrender.com).
 
 - 📫 You can reach me at **maorlayani@gmail.com**.
 
